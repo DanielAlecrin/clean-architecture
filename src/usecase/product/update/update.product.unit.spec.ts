@@ -5,8 +5,8 @@ const product = ProductFactory.create("a", "Metal", 10);
 
 const input = {
   id: product.id,
-  name: "Metal",
-  price: 10,
+  name: "Bolsa",
+  price: 50,
 };
 
 const MockRepository = () => {
